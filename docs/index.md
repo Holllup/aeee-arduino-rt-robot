@@ -10,7 +10,7 @@ This page summarises a 4-week applied engineering build: from electronics valida
 
 ## Quick Links
 - Architecture: `architecture.md`
-- Week 1: `(week1-foundation.md)`
+- Week 1: `week1-foundation.md`
 - Week 2: `week2-rt-uart-hmi.md`
 - Week 3: `week3-sensing-wireless.md`
 - Week 4: `week4-integration-control.md`
