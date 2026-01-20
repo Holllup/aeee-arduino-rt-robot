@@ -43,15 +43,15 @@
 - Custom HMI integration (LCD + encoder + buttons + buzzer/LED + mic option)
 - Individual low-battery voltage indicator board
 
-### Week 3 — Sensors & Wireless (fill based on actual work)
-- [sensor list]
-- [wireless module / protocol]
-- [demo]
+### Week 3 — Sensors & Wireless (Calibration + Joystick)
+- Integrated a joystick controller and calibrated a 3‑axis accelerometer (e.g. MPU‑6050) to implement remote driving.
+- Calibrated reflective optical sensors and developed a simple wireless link for remote control.
+- Evaluated power modules and verified sensor outputs using an oscilloscope.
 
-### Week 4 — System Integration & Control
-- [line following / PID / final integration]
-- [robustness improvements]
-- [final challenge]
+### Week 4 — System Integration & Control (Final Challenge)
+- Unified sensors, HMI and control algorithms into one platform.
+- Implemented closed‑loop control (PID / line following) and tuned parameters for stability.
+- Completed the final challenge (e.g. a line‑following race) and demonstrated seamless mode switching (manual / automatic).
 
 ---
 
